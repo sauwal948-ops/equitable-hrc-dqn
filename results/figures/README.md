@@ -16,4 +16,5 @@
    - **figure9_skill_evolution** - Long-term workforce dynamics
    
    All figures are high-resolution (300 DPI minimum) for publication quality.
-[AN EQUITABLE DEEP REINFORCEMENT LEARNING.docx](https://github.com/user-attachments/files/24834782/AN.EQUITABLE.DEEP.REINFORCEMENT.LEARNING.docx)
+
+[figures.docx](https://github.com/user-attachments/files/24835135/figures.docx)
