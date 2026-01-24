@@ -1,0 +1,36 @@
+@article{musa2025equitable,
+  title={A Deep Reinforcement Learning Framework for Equitable Human-Robot Collaboration: Multi-Objective Task Allocation in Resource-Constrained Manufacturing},
+  author={Musa, Salisu Auwal and Ahmad, Bashir Muhammad},
+  journal={[Journal Name - To Be Updated Upon Acceptance]},
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  publisher={},
+  doi={},
+  url={https://github.com/sauwal948-ops/equitable-hrc-dqn},
+  note={Preprint. GitHub repository: \url{https://github.com/sauwal948-ops/equitable-hrc-dqn}},
+  keywords={human-robot collaboration, deep reinforcement learning, equitable automation, Industry 5.0, developing economies, simulation-based optimization}
+}
+
+@software{musa2025equitable_code,
+  title={Equitable HRC-DQN: Implementation and Supplementary Code},
+  author={Musa, Salisu Auwal and Ahmad, Bashir Muhammad},
+  year={2025},
+  url={https://github.com/sauwal948-ops/equitable-hrc-dqn},
+  version={1.0.0},
+  note={Software implementation accompanying the paper "A Deep Reinforcement Learning Framework for Equitable Human-Robot Collaboration"}
+}
+
+% Instructions for citing this work:
+%
+% For the paper (when published):
+% \cite{musa2025equitable}
+%
+% For the code repository:
+% \cite{musa2025equitable_code}
+%
+% Example citation in text:
+% "Following the methodology of Musa and Ahmad \cite{musa2025equitable}, 
+%  we implemented the equitable DQN framework using their open-source 
+%  code \cite{musa2025equitable_code}..."
