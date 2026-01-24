@@ -309,7 +309,42 @@ Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 📄 License
+## � Data Availability
+
+All code, data, and materials supporting this study are openly available at 
+https://github.com/sauwal948-ops/equitable-hrc-dqn under the MIT License. 
+The repository includes: 
+1. Complete DQN implementation with composite reward functions
+2. Simulation environment for cement bagging operations
+3. Cross-industry validation scripts for five manufacturing sectors
+4. Monte Carlo robustness testing code (n=1,000 iterations)
+5. Economic ROI analysis templates
+6. Deployment readiness assessment tools
+
+Manufacturing operational parameters are derived from publicly available sources cited in 
+references [7, 8, 11, 15]. Detailed parameter tables, validation protocols, 
+and systematic review data extraction are provided in Supplementary Materials 
+S3.1, S4.1-S4.8, and Appendix A.
+
+---
+
+## ⚖️ Ethics Declaration
+
+**Ethics approval and consent to participate:** Not applicable (simulation-based study).
+
+**Consent for publication:** Not applicable.
+
+**Competing interests:** The authors declare no competing interests.
+
+**Funding:** [Specify funding source or state "No funding was received for this research"]
+
+**Authors' contributions:** S.A.M. conceptualized the framework, conducted simulations, 
+and drafted the manuscript. B.M.A. contributed to methodology and manuscript revision. 
+Both authors approved the final version.
+
+---
+
+## �📄 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
